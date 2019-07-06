@@ -1,0 +1,34 @@
+---
+
+layout: default
+
+---
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header>
+           <img src="assets/img/Q_CRISIS_crop.jpg">
+            <nav>
+                <ul>
+                    <li><a href="index">Home</a></li>
+                    <li><a href="registration">Key Dates & Registration</a></li>
+                    <li><a href="invitedspeakers">Invited Speakers</a></li>
+		    		<li><a href="programme">Scientific Programme</a></li>  
+                    <li><a href="locationandtravel">Location & Travel</a></li>
+                    <li><a href="accommodation">Accommodation</a></li>
+                    <li><a href="poster">Posters</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+
+			{{ content }}
+
+        </main>
+    </body>
+</html>
