@@ -14,14 +14,12 @@ The German Centre for Cosmological Lensing (GCCL) was founded in November 2018 t
 
 We have four grant programmes;
 
-- The [GCCL Fellowship programme](/fellows/) (the next call is anticipated in October 2020)
+- The <a href="fellows">GCCL Fellowship programme</a> (the next call is anticipated in October 2020)
 - Affiliate travel grants (travel between GCCL nodes)
 - Workshop and conferences grants (hosted by GCCL nodes)
 - International Distinguished visitor scheme 
 
-For further information about any of these schemes, please [contact us](/contact/)
-
-Please contact us <a href="contact">contact us</a>
+For further information about any of these schemes, please contact us <a href="contact">contact us</a>
 
 
 
