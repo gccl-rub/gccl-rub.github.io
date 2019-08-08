@@ -21,5 +21,6 @@ We have four grant programmes;
 
 For further information about any of these schemes, please contact us <a href="contact">contact us</a>
 
-
-
+<img src="assets/img/Max-Planck_logo.jpg" height="100">
+<img src="assets/img/Humboldt_logo.gif" height="100">
+<img src="assets/img/LOGO_ERC.png" height="100">
