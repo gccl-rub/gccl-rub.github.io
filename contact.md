@@ -20,5 +20,8 @@ Germany
 - Prof. Dr. Hendrik Hildebrandt\\
   GAFO 03 / 919\\
   hendrik@astro.ruhr-uni-bochum.de\\
-  +49 234 3224019‬\\
-  ![Hendrik Hildebrandt](images/Hildebrandt_Hendrik_KM-6.jpg)
+  +49 234 3224019‬
+
+
+<img src="images/Hildebrandt_Hendrik_KM-6.jpg" alt="Hendrik Hildebrandt" width="500"
+height="600">
