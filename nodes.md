@@ -6,7 +6,7 @@ layout: wrapper
 
 # GCCL Institutes
 
-- [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/en) (Hendrik Hildebrandt)
+- [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en) (Hendrik Hildebrandt)
 - [University of Bonn](https://www.uni-bonn.de/startpage?set_language=en) (Peter Schneider)
 - [Ludwig Maximilian University of Munich](https://www.en.uni-muenchen.de/index.html) (Stella Seitz)
 - [University of Heidelberg](https://www.uni-heidelberg.de/en) (Matthias Bartelmann)
