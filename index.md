@@ -21,7 +21,7 @@ We have four grant programmes;
 
 For further information about any of these schemes, please <a href="contact">contact us</a>.
 
-<a href="https://www.mpg.de/en"><img src="assets/img/Max-Planck_logo.jpg" height="100"></a>
-<a href="https://www.humboldt-foundation.de/web/home.html"><img src="assets/img/Humboldt_logo.gif" height="100"></a>
-<a href="https://erc.europa.eu/"><img src="assets/img/LOGO_ERC.png" height="100"></a>
-<a href="https://www.dfg.de/"><img src="assets/img/DFG_logo.jpg" height="100"></a>
+<a href="https://www.mpg.de/en"><img src="assets/img/Max-Planck_logo.jpg" height="70"></a>
+<a href="https://www.humboldt-foundation.de/web/home.html"><img src="assets/img/Humboldt_logo.gif" height="70"></a>
+<a href="https://erc.europa.eu/"><img src="assets/img/LOGO_ERC.png" height="70"></a>
+<a href="https://www.dfg.de/"><img src="assets/img/DFG_logo.jpg" height="70"></a>
