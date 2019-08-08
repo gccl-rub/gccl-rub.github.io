@@ -24,4 +24,4 @@ Germany
 
 
 <img src="images/Hildebrandt_Hendrik_KM-6_small.jpeg" alt="Hendrik
-Hildebrandt" width="500">
+Hildebrandt" width="250">
