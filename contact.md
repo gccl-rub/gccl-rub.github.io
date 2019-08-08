@@ -6,8 +6,11 @@ layout: wrapper
 
 # Contact
 
-Astronomisches Institut, Ruhr-Universität Bochum
-Universitätsstr. 150, 44801 Bochum, Germany
+Astronomisches Institut\\
+Ruhr-Universität Bochum\\
+Universitätsstr. 150\\
+44801 Bochum\\
+Germany
 
 - Prof. Dr. Catherine Heymans\\
   GAFO 03 / 919\\
