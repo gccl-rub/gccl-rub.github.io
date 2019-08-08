@@ -19,5 +19,5 @@ We have four grant programmes;
 - Workshop and conferences grants (hosted by GCCL nodes)
 - International Distinguished visitor scheme 
 
-For further details about any of these schemes, please [contact us](contacts)
+For further details about any of these schemes, please [contact us](/contact/)
 
