@@ -23,4 +23,4 @@ Germany
   +49 234 3224019‬
 
 
-<img src="images/Hildebrandt_Hendrik_KM-6_small.jpg" alt="Hendrik Hildebrandt">
+<img src="images/Hildebrandt_Hendrik_KM-6_small.jpeg" alt="Hendrik Hildebrandt">
