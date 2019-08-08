@@ -25,4 +25,4 @@ Germany
   +49 234 3224019‬\\
   <img src="assets/img/Hildebrandt_Hendrik_Frommann_001_a.jpg" alt="Hendrik
   Hildebrandt" width="250">\\
-  ©RUB, Marquard
+  ©Frommann, Uni Bonn
