@@ -6,6 +6,7 @@ layout: wrapper
 
 # Contact
 
+German Centre for Cosmological Lensing\\
 Astronomisches Institut\\
 Ruhr-Universität Bochum\\
 Universitätsstr. 150\\

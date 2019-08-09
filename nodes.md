@@ -11,3 +11,4 @@ layout: wrapper
 - [Ludwig-Maximilians-Universität München](https://www.en.uni-muenchen.de/index.html) (Stella Seitz)
 - [Universität Heidelberg](https://www.uni-heidelberg.de/en) (Matthias Bartelmann)
 - [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de) (Sherry Suyu)
+- [University of Edinburgh](http://www.roe.ac.uk/ifa) (Catherine Heymans)

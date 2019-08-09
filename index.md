@@ -6,18 +6,18 @@ layout: wrapper
 
 ![Image](assets/img/GCCL_logo.jpg)
 
-## Welcome to the German Centre for Cosmological Lensing!
+## Welcome to the German Centre for Cosmological Lensing
 
 At the GCCL our long-term goal is to answer one far-reaching question: what is the exact nature of the dark Universe?    We are currently building the methodology and techniques needed to analyse the two major international gravitational lensing surveys of the 2020’s: [LSST](https://www.lsst.org/) and [Euclid](https://www.euclid-ec.org/).  We are also developing new statistical tools to confront a range of different theories, on both dark matter and dark energy.
 
-The German Centre for Cosmological Lensing (GCCL) was founded in November 2018 through the joint support of the [European Research Council](https://erc.europa.eu/), the [Max Planck Society](https://www.mpg.de/en), [the Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) and the Federal Ministry of Education and Research.   The GCCL is based in the at the Astronomical Institute at the Ruhr-Universität Bochum, with [nodes](/nodes/) at the University of Bonn, the Max-Planck Institute for Astrophysics in Garching, Munich University Observatory and Heidelberg University.
+The German Centre for Cosmological Lensing (GCCL) was founded in November 2018 through the joint support of the [European Research Council](https://erc.europa.eu/), the [Max Planck Society](https://www.mpg.de/en), [the Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) and the Federal Ministry of Education and Research.   The GCCL is based in the at the Astronomical Institute at the Ruhr-Universität Bochum, with [nodes](/nodes/) at the University of Bonn, the Max-Planck Institute for Astrophysics in Garching, Munich University Observatory, Heidelberg University and the University of Edinburgh.
 
 We have four grant programmes;
 
 - The <a href="fellows">GCCL Fellowship programme</a> (the next call is anticipated in October 2020)
 - Affiliate travel grants (travel between GCCL nodes)
 - Workshop and conferences grants (hosted by GCCL nodes)
-- International Distinguished visitor scheme 
+- International Distinguished visitor scheme (to any GCCL node)
 
 For further information about any of these schemes, please <a href="contact">contact us</a>.
 
