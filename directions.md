@@ -24,6 +24,7 @@ On arrival at Bochum Hauptbahnhof, change to the subway U35 (direction Universit
 ## From the U-bahn to the GCCL
 The RUB campus is very large, and so GCCL Fellow Angus Wright has made this short video to help you find your way to our building "GAFO".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2uK-Wr4zjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Staying at LSI: Landesspracheninstitut
