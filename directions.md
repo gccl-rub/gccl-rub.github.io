@@ -16,13 +16,13 @@ Germany
 
 ## Train travel to Bochum from Düsseldorf airport:
 When you arrive at the airport terminal, follow signs for the "SkyTrain" which will take you on 
-a short ride (~5min)the Düsseldorf airport train station.  From there you can catch [regular trains](https://www.bahn.com/en/view/index.shtml) to Bochum
-Hauptbahnhof (Hbf; 35-45min).  You can buy your ticket to Bochum from the machine at the SkyTrain station.
+a short ride (~5min) to the Düsseldorf airport train station.  From there you can catch [regular trains](https://www.bahn.com/en/view/index.shtml) to Bochum
+Hauptbahnhof (Hbf; 35-45min).  You can buy your ticket to Bochum from the ticket machine at the SkyTrain station.
 
 On arrival at Bochum Hauptbahnhof, change to the subway U35 (direction Universitat), which runs every 5-15 mins and takes you to Ruhr-Universität (~10min).
 
 ## From the U-bahn to the GCCL
-The RUB campus is very large, and so GCCL Fellow Angus Wright has made this short video to help you find your way to our building "GAFO".
+The RUB campus is very large, and so GCCL Fellow Angus Wright has made this short video to help you find your way to our building "GAFO"!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V2uK-Wr4zjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
