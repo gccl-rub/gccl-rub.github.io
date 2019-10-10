@@ -14,7 +14,7 @@ Universitätsstr. 150\\
 Germany
 
 - [Prof. Dr. Catherine Heymans](https://www.roe.ac.uk/~heymans/)\\
-  GAFO 03 / 919\\
+  GAFO 03 / 921\\
   heymans@astro.ruhr-uni-bochum.de\\
   +49 234 3223460‬\\
   <img src="assets/img/Heymans_RUB_lowres.jpg" alt="Catherine Heymans" width="250">\\
