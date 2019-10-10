@@ -17,8 +17,8 @@ Germany
   GAFO 03 / 919\\
   heymans@astro.ruhr-uni-bochum.de\\
   +49 234 3223460‬\\
-  <img src="assets/img/FBBVA-CATHERINE-HEYMANS.jpg" alt="Catherine Heymans" width="250">\\
-  ©BBVA Foundation
+  <img src="assets/img/Heymans_RUB_lowres.jpg" alt="Catherine Heymans" width="250">\\
+  ©Kramer, RUB
 
 - [Prof. Dr. Hendrik Hildebrandt](https://people.astro.ruhr-uni-bochum.de/hendrik/)\\
   GAFO 03 / 919\\
