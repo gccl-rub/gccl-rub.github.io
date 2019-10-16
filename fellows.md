@@ -14,10 +14,14 @@ layout: wrapper
 
 - [Dr. Alex Malz](https://github.com/aimalz)\\
   GAFO 03 / 925\\
-  aimalz@astro.rub.de\\
+  aimalz@astro.ruhr-uni-bochum.de\\
   +49 234 3223450\\
 
-- Dr. Angus Wright
+- [Dr. Angus H Wright](https://github.com/AngusWright)\\
+  GAFO 03 / 923\\
+  awright@astro.ruhr-uni-bochum.de\\
+  +49 234 3224224\\
+  <img src="assets/img/ahwright.jpg" alt="Angus H. Wright" width="250">  
 
 - Dr. Mijin Yoon\\
   GAFO 03 / 925\\
