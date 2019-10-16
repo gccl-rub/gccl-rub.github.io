@@ -12,7 +12,10 @@ layout: wrapper
   +49 234 3224224\\
   <img src="assets/img/dvornik_temp.jpg" alt="Andrej Dvornik" width="250">
 
-- Dr. Alex Malz
+- [Dr. Alex Malz](https://github.com/aimalz)\\
+  GAFO 03 / 925\\
+  aimalz@astro.rub.de\\
+  +49 234 3223450\\
 
 - Dr. Angus Wright
 
