@@ -23,7 +23,7 @@ layout: wrapper
   +49 234 3224224\\
   <img src="assets/img/ahwright.jpg" alt="Angus H. Wright" width="250">  
 
-- [Dr. Mijin Yoon](http://mijinyoon.githun.io)\\
+- [Dr. Mijin Yoon](http://mijinyoon.github.io)\\
   GAFO 03 / 925\\
   mijin.yoon@astro.ruhr-uni-bochum.de\\
   +49 234 3223450\\
