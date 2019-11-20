@@ -11,7 +11,8 @@ The GCCL Seminar is a virtual video-link seminar where we invite speakers from a
 If you would like to give a seminar at the GCCL please contact Dr. Mijin Yoon (mijin.yoon@astro.ruhr-uni-bochum.de).
 
 ## Seminar Schedule
-###22/11/2019: Elena Sellentin
+
+### 22/11/2019: Elena Sellentin
  “A blinding solution for inference from astronomical data” \\
 This paper presents a joint blinding and deblinding strategy for inference of physical laws from astronomical data. The strategy allows for up to three blinding stages, where the data may be blinded, the computations of theoretical physics may be blinded, and --assuming Gaussianly distributed data-- the covariance matrix may be blinded. We found covariance blinding to be particularly effective, as it enables the blinder to determine close to exactly where the blinded posterior will peak. Accordingly, we present an algorithm which induces posterior shifts in predetermined directions by hiding untraceable biases in a covariance matrix. The associated deblinding takes the form of a numerically lightweight post-processing step, where the blinded posterior is multiplied with deblinding weights. We illustrate the blinding strategy for cosmic shear from KiDS-450, and show that even though there is no direct evidence of the KiDS-450 covariance matrix being biased, the famous cosmic shear tension with Planck could easily be induced by a mischaracterization of correlations between ξ_ at the highest redshift and all lower redshifts. The blinding algorithm illustrates the increasing importance of accurate uncertainty assessment in astronomical inferences, as otherwise involuntary blinding through biases occurs. \\
 [https://arxiv.org/abs/1910.08533](https://arxiv.org/abs/1910.08533)
