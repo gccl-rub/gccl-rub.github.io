@@ -14,8 +14,16 @@ If you would like to give a seminar at the GCCL please contact Dr. Mijin Yoon (m
 
 ### 17/1/2020: Alex Barreira
 
+The Accuracy of Weak Lensing Simulations \\
 We investigate the accuracy of weak lensing simulations by comparing the results of five independently developed lensing simulation codes run on the same input N-body simulation. Our comparison focuses on the lensing convergence maps produced by the codes, and in particular on the corresponding PDFs, power spectra and peak counts. We find that the convergence power spectra of the lensing codes agree to ≲2% out to scales ℓ≈4000. For lensing peak counts, the agreement is better than 5% for peaks with signal-to-noise ≲6. We also discuss the systematic errors due to the Born approximation, line-of-sight discretization, particle noise and smoothing. The lensing codes tested deal in markedly different ways with these effects, but they nonetheless display a satisfactory level of agreement. Our results thus suggest that systematic errors due to the operation of existing lensing codes should be small. Moreover their impact on the convergence power spectra for a lensing simulation can be predicted given its numerical details, which may then serve as a validation test.\\
 [https://arxiv.org/abs/1910.10625](https://arxiv.org/abs/1910.10625)
+
+
+### 20/12/2020: Sandra Unruh
+
+The importance of magnification effects in weak gravitational lensing \\
+Magnification changes the observed number counts of galaxies on the sky. This biases the observed tangential shear profiles around galaxies, the so-called galaxy-galaxy lensing (GGL) signal, and the related excess mass profile. Correspondingly, inference of physical quantities, such as the mean mass profile of halos around galaxies, are affected by magnification effects. We use simulated shear and galaxy data of the Millennium Simulation to quantify the effect on shear and mass estimates from magnified lens and source number counts. The former are due to the large-scale matter distribution in the foreground of the lenses, the latter are caused by magnification of the source population by the matter associated with the lenses. The GGL signal is calculated from the simulations by an efficient fast-Fourier transform that can also be applied to real data. The numerical treatment is complemented by a leading-order analytical description of the magnification effects, which is shown to fit the numerical shear data well. We find the magnification effect is strongest for steep galaxy luminosity functions and high redshifts. For a lens redshift of zd=0.83, a limiting magnitude of 22mag in the r-band and a source redshift of zs=0.99, we find that a magnification correction changes the shear profile up to 45% and the mass is biased by up to 55%. For medium-redshift galaxies the relative change in shear and mass is typically a few percent. As expected, the sign of the bias depends on the local slope of the lens luminosity function αd, where the mass is biased low for αd<1 and biased high for αd>1. Whereas the magnification effect of sources is rarely than more 1%, the statistical power of future weak lensing surveys warrants correction for this effect.\\
+[https://arxiv.org/abs/1910.06400](https://arxiv.org/abs/1910.06400)
 
 ### 6/12/2019: Aurel Schneider
 
