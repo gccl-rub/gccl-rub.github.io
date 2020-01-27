@@ -12,9 +12,9 @@ If you would like to give a seminar at the GCCL please contact Dr. Mijin Yoon (m
 
 ## Seminar Schedule
 
-## 31/1/2020: Hao-Yi (Heidi) Wu
+## 7/2/2020: Hao-Yi (Heidi) Wu @3pm
 
-Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure\\
+Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure\
 
 Next-generation optical imaging surveys will revolutionise the observations of weak gravitational lensing by galaxy clusters and provide stringent constraints on growth of structure and cosmic acceleration. In these experiments, accurate modelling of covariance matrices of cluster weak lensing plays the key role in obtaining robust measurements of the mean mass of clusters and cosmological parameters. We use a combination of analytical calculations and high-resolution N-body simulations to derive accurate covariance matrices that span from the virial regime to linear scales of the cluster-matter cross-correlation. We validate this calculation using a public ray-tracing lensing simulation and provide a software package for calculating covariance matrices for a wide range of cluster and source sample choices. We discuss the relative importance of shape noise and density fluctuations, the impact of radial bin size, and the impact of off-diagonal elements. For a weak lensing source density 10 per square arcmin, shape noise typically dominates the variance on comoving scales less than 5 Mpc/h. However, for 60 per square arcmin, potentially achievable with future weak lensing experiments, density fluctuations typically dominate the variance at scales greater than 1 Mpc/h and remain comparable to shape noise on smaller scales.\\
 [https://arxiv.org/abs/1907.06611](https://arxiv.org/abs/1907.06611)
