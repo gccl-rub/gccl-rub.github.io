@@ -13,6 +13,13 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 20/3/2020: Maria Cristina Fortuna
+
+[The halo model as a versatile tool to predict intrinsic alignments](assets/talk_slides/The_halo_model_as_a_versatile_tool_to_predict_intrinsic_alignments.pdf)
+
+Intrinsic alignments (IAs) of galaxies are an important contaminant for cosmic shear studies, but the modelling is complicated by the dependence of the signal on the source galaxy sample. In this paper, we use the halo model formalism to capture this diversity and examine its implications for a Stage III cosmic shear survey. We account for the different IA signatures at large and small scales as well for the different contribution from central/satellite and red/blue galaxies. We inform our model using the most recent observational findings: we include a luminosity dependence at both large and small scales and a radial dependence of the signal within the halo. We predict the impact of the total IA signal on the lensing angular power spectra, including the current uncertainties from the IA best-fits to illustrate the range of possible impact on the lensing signal: the lack of constraints for fainter galaxies is the main source of uncertainty for our predictions of the IA signal. We investigate how well the widely used non-linear alignment model can capture the complexity of the IA signal and find that while for Stage III surveys it is flexible enough, in the case of a Stage IV survey, this can lead to 1σ bias on Ωm.\\
+[https://arxiv.org/abs/2003.02700](https://arxiv.org/abs/2003.02700)
+
 ### 6/3/2020: Angus Wright
 
 [Photometric Redshift Calibration with Self Organising Maps](assets/talk_slides/GCCL_Seminar_20200306.pdf)
