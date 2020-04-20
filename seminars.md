@@ -13,6 +13,13 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 17/4/2020: Matteo Costanzi
+
+[Dark Energy Survey Year 1 Results: Cosmological Constraints from Cluster Abundances and Weak Lensing](assets/talk_slides/DESY1_Cluster_Cosmology_GCCL_seminar_17_04_2020.pdf)
+
+We perform a joint analysis of the counts and weak lensing signal of redMaPPer clusters selected from the Dark Energy Survey (DES) Year 1 dataset. Our analysis uses the same shear and source photometric redshifts estimates as were used in the DES combined probes analysis. Our analysis results in surprisingly low values for S8=σ8(Ωm/0.3)0.5=0.65±0.04, driven by a low matter density parameter, Ωm=0.179+0.031−0.038, with σ8−Ωm posteriors in 2.4σ tension with the DES Y1 3x2pt results, and in 5.6σ with the Planck CMB analysis. These results include the impact of post-unblinding changes to the analysis, which did not improve the level of consistency with other data sets compared to the results obtained at the unblinding. The fact that multiple cosmological probes (supernovae, baryon acoustic oscillations, cosmic shear, galaxy clustering and CMB anisotropies), and other galaxy cluster analyses all favor significantly higher matter densities suggests the presence of systematic errors in the data or an incomplete modeling of the relevant physics. Cross checks with X-ray and microwave data, as well as independent constraints on the observable-mass relation from SZ selected clusters, suggest that the discrepancy resides in our modeling of the weak lensing signal rather than the cluster abundance. Repeating our analysis using a higher richness threshold (λ≥30) significantly reduces the tension with other probes, and points to one or more richness-dependent effects not captured by our model.\\
+[https://arxiv.org/abs/2002.11124](https://arxiv.org/abs/2002.11124)
+
 ### 3/4/2020: Andrina Nicola
 
 [Tomographic galaxy clustering with the Subaru Hyper Suprime-Cam first year public data release](assets/talk_slides/GCCL-HSC-clustering-2020.pdf)
