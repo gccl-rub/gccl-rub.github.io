@@ -13,6 +13,13 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 8/5/2020: Federico Bianchini
+
+[Constraints on Cosmological Parameters from the 500 deg^2 SPTpol Lensing Power Spectrum](assets/talk_slides/SPTpol500dLensingBianchiniGCCL.pdf)
+
+We present cosmological constraints based on the cosmic microwave background (CMB) lensing potential power spectrum measurement from the recent 500 deg2 SPTpol survey, the most precise CMB lensing measurement from the ground to date. We fit a flat ΛCDM model to the reconstructed lensing power spectrum alone and in addition with other data sets: baryon acoustic oscillations (BAO) as well as primary CMB spectra from Planck and SPTpol. The cosmological constraints based on SPTpol and Planck lensing band powers are in good agreement when analysed alone and in combination with Planck full-sky primary CMB data. With weak priors on the baryon density and other parameters, the CMB lensing data alone provide a 4\% constraint on σ8Ω0.25m=0.0593±0.025.. Jointly fitting with BAO data, we find σ8=0.779±0.023, Ωm=0.368+0.032−0.037, and H0=72.0+2.1−2.5kms−1Mpc−1, up to 2σ away from the central values preferred by Planck lensing + BAO. However, we recover good agreement between SPTpol and Planck when restricting the analysis to similar scales. We also consider single-parameter extensions to the flat ΛCDM model. The SPTpol lensing spectrum constrains the spatial curvature to be ΩK=−0.0007±0.0025 and the sum of the neutrino masses to be ∑mν<0.23 eV at 95\% C.L. (with Planck primary CMB and BAO data), in good agreement with the Planck lensing results. With the differences in the S/N of the lensing modes and the angular scales covered in the lensing spectra, this analysis represents an important independent check on the full-sky Planck lensing measurement.\\
+[https://arxiv.org/abs/1910.07157](https://arxiv.org/abs/1910.07157)
+
 ### 8/5/2020: William Hartley
 
 [The impact of spectroscopic incompleteness in direct calibration of redshift distributions for weak lensing surveys](assets/talk_slides/spec_incompleteness_gccl.pdf)
