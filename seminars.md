@@ -13,14 +13,21 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
-### 8/5/2020: Joseph DeRose
+### 19/6/2020: Benjamin Bose
+
+[Game of Gravities: Disputing the dark with galaxy surveys]())
+
+Upcoming large-scale structure surveys will be able to measure the galaxy distribution to an unprecedented degree of accuracy, putting us in a position to learn a lot more about our Universe and the forces that have formed it. The amount we are able to learn though depends on how reliably we can model the physics we assume we are observing. Further, if we relax our assumptions about the physics, then the reliability and even availability of current predictive methods breaks down. In the first part of this talk I will present a promising method of accurately modelling non-standard physics in the matter power spectrum on linear to very non-linear scales. The second part will present a publicly available code, ReACT, that employs this method and can be directly applied to cosmic shear observations. Finally,  I will present some applications of the code, including modified gravity forecasts for LSST and applications to galaxy clustering analyses.\\
+[https://arxiv.org/abs/2005.12184](https://arxiv.org/abs/2005.12184)
+
+### 5/6/2020: Joseph DeRose
 
 [The Buzzard Flock: Dark Energy Survey Synthetic Sky Catalogs](assets/talk_slides/buzzard_flock_gccl_seminar.pdf)
 
 We present a suite of 18 synthetic sky catalogs designed to support science analysis of galaxies in the Dark Energy Survey Year 1 (DES Y1) data. For each catalog, we use a computationally efficient empirical approach, ADDGALS, to embed galaxies within light-cone outputs of three dark matter simulations that resolve halos with masses above ~5x10^12 h^-1 m_sun at z <= 0.32 and 10^13 h^-1 m_sun at z~2. The embedding method is tuned to match the observed evolution of galaxy counts at different luminosities as well as the spatial clustering of the galaxy population. Galaxies are lensed by matter along the line of sight --- including magnification, shear, and multiple images --- using CALCLENS, an algorithm that calculates shear with 0.42 arcmin resolution at galaxy positions in the full catalog. The catalogs presented here, each with the same LCDM cosmology (denoted Buzzard), contain on average 820 million galaxies over an area of 1120 square degrees with positions, magnitudes, shapes, photometric errors, and photometric redshift estimates. We show that the weak-lensing shear catalog, redMaGiC galaxy catalogs and redMaPPer cluster catalogs provide plausible realizations of the same catalogs in the DES Y1 data by comparing their magnitude, color and redshift distributions, angular clustering, and mass-observable relations, making them useful for testing analyses that use these samples. We make public the galaxy samples appropriate for the DES Y1 data, as well as the data vectors used for cosmology analyses on these simulations.\\
 [https://arxiv.org/abs/1901.02401](https://arxiv.org/abs/1901.02401)
 
-### 8/5/2020: Federico Bianchini
+### 22/5/2020: Federico Bianchini
 
 [Constraints on Cosmological Parameters from the 500 deg^2 SPTpol Lensing Power Spectrum](assets/talk_slides/SPTpol500dLensingBianchiniGCCL.pdf)
 
