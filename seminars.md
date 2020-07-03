@@ -13,6 +13,13 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 3/7/2020: Alessio Spurio Mancini
+
+[KiDS + GAMA: constraints on horndeski gravity from combined large-scale structure probes](assets/talk_slides/GCCL_Alessio_SpurioMancini.pdf)
+
+We present constraints on Horndeski gravity from a combined analysis of cosmic shear, galaxy-galaxy lensing and galaxy clustering from 450deg2 of the Kilo-Degree Survey (KiDS) and the Galaxy And Mass Assembly (GAMA) survey. The Horndeski class of dark energy/modified gravity models includes the majority of universally coupled extensions to ΛCDM with one scalar field in addition to the metric. We study the functions of time that fully describe the evolution of linear perturbations in Horndeski gravity. Our results are compatible throughout with a ΛCDM model. By imposing gravitational wave constraints, we fix the tensor speed excess to zero and consider a subset of models including e.g. quintessence and f(R) theories. Assuming proportionality of the Horndeski functions αB and αM (kinetic braiding and the Planck mass run rate, respectively) to the dark energy density fraction ΩDE(a)=1−Ωm(a), we find for the proportionality coefficients α̂B=0.20+0.20−0.33 and α̂M=0.25+0.19−0.29. Our value of S8 is in better agreement with the Planck estimate when measured in the enlarged Horndeski parameter space than in a pure ΛCDM scenario. In our joint three-probe analysis we report a downward shift of the S8 best fit value from the Planck measurement of ΔS8=0.016+0.048−0.046 in Horndeski gravity, compared to ΔS8=0.059+0.040−0.039 in ΛCDM. Our constraints are robust to the modelling uncertainty of the non-linear matter power spectrum in Horndeski gravity.\\
+[https://arxiv.org/abs/1901.03686](https://arxiv.org/abs/1901.03686)
+
 ### 19/6/2020: Benjamin Bose
 
 [Game of Gravities: Disputing the dark with galaxy surveys](https://docs.google.com/presentation/d/1zMe74dZEwMWqlFg0szpDVxVFOyxxmycOZmJMAiRVkUY/edit?invite=CISii6cC&ts=5ef25cd5#slide=id.p)
