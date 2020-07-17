@@ -13,6 +13,13 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 17/7/2020: Jessie Muir
+
+[Blinding multi-probe cosmological experiments](assets/talk_slides/muir_blinding_gccl-seminar_july2020.pdf)
+
+The goal of blinding is to hide an experiment's critical results -- here the inferred cosmological parameters -- until all decisions affecting its analysis have been finalised. This is especially important in the current era of precision cosmology, when the results of any new experiment are closely scrutinised for consistency or tension with previous results. In analyses that combine multiple observational probes, like the combination of galaxy clustering and weak lensing in the Dark Energy Survey (DES), it is challenging to blind the results while retaining the ability to check for (in)consistency between different parts of the data. We propose a simple new blinding transformation that works by modifying the summary statistics that are input to parameter estimation, such as two-point correlation functions. The transformation shifts the measured statistics to new values that are consistent with (blindly) shifted cosmological parameters, while preserving internal (in)consistency. We apply the blinding transformation to simulated data for the projected DES Year 3 galaxy clustering and weak lensing analysis, demonstrating that practical blinding is achieved without significant perturbation of internal-consistency checks, as measured here by degradation of the χ2 between data and best-fitting model. Our blinding method conserves χ2 more precisely as experiments evolve to higher precision.\\
+[https://arxiv.org/abs/1911.05929](https://arxiv.org/abs/1911.05929)
+
 ### 3/7/2020: Alessio Spurio Mancini
 
 [KiDS + GAMA: constraints on horndeski gravity from combined large-scale structure probes](assets/talk_slides/GCCL_Alessio_SpurioMancini.pdf)
