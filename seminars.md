@@ -13,6 +13,20 @@ If you would like to give a seminar at the GCCL please contact Dr. Andrej Dvorni
 ## Seminar Schedule
 
 
+### 18/9/2020: Yi-Kuan Chiang
+
+The Cosmic Thermal History Probed by Sunyaev-Zeldovich Effect Tomography
+
+The cosmic thermal history, quantified by the evolution of the mean thermal energy density in the universe, is driven by the growth of structures as baryons get shock heated in collapsing dark matter halos. This process can be probed by redshift-dependent amplitudes of the thermal Sunyaev-Zeldovich (SZ) effect background. To do so, we cross-correlate eight sky intensity maps in the Planck and Infrared Astronomical Satellite missions with two million spectroscopic redshift references in the Sloan Digital Sky Surveys. This delivers snapshot spectra for the far-infrared to microwave background light as a function of redshift up to z∼3. We decompose them into the SZ and thermal dust components. Our SZ measurements directly constrain ⟨bPe⟩, the halo bias-weighted mean electron pressure, up to z∼1. This is the highest redshift achieved to date, with uncorrelated redshift bins thanks to the spectroscopic references. We detect a threefold increase in the density-weighted mean electron temperature T¯e from 7×105 K at z=1 to 2×106 K today. Over z=1-0, we witness the build-up of nearly 70% of the present-day mean thermal energy density ρth, with the corresponding density parameter Ωth reaching 1.5×10−8. We find the mass bias parameter of Planck's universal pressure profile of B=1.27 (or 1−b=1/B=0.79), consistent with the magnitude of non-thermal pressure in gas motion and turbulence from mass assembly. We estimate the redshift-integrated mean Compton parameter y∼1.2×10−6, which will be tested by future spectral distortion experiments. More than half of which originates from the large-scale structure at z<1, which we detect directly.\\
+[https://arxiv.org/abs/2006.14650](https://arxiv.org/abs/2006.14650)
+
+### 4/9/2020: Eva-Maria Mueller
+
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological Implications from two Decades of Spectroscopic Surveys at the Apache Point observatory
+
+We present the cosmological implications from final measurements of clustering using galaxies, quasars, and Lyα forests from the completed Sloan Digital Sky Survey (SDSS) lineage of experiments in large-scale structure. These experiments, composed of data from SDSS, SDSS-II, BOSS, and eBOSS, offer independent measurements of baryon acoustic oscillation (BAO) measurements of angular-diameter distances and Hubble distances relative to the sound horizon, rd, from eight different samples and six measurements of the growth rate parameter, fσ8, from redshift-space distortions (RSD). This composite sample is the most constraining of its kind and allows us to perform a comprehensive assessment of the cosmological model after two decades of dedicated spectroscopic observation. We show that the BAO data alone are able to rule out dark-energy-free models at more than eight standard deviations in an extension to the flat, ΛCDM model that allows for curvature. When combined with Planck Cosmic Microwave Background (CMB) measurements of temperature and polarization the BAO data provide nearly an order of magnitude improvement on curvature constraints. The RSD measurements indicate a growth rate that is consistent with predictions from Planck primary data and with General Relativity. When combining the results of SDSS BAO and RSD with external data, all multiple-parameter extensions remain consistent with a ΛCDM model. Regardless of cosmological model, the precision on ΩΛ, H0, and σ8, remains at roughly 1\%, showing changes of less than 0.6\% in the central values between models. The inverse distance ladder measurement under a ow0waCDM yields H0=68.20±0.81kms−1Mpc−1, remaining in tension with several direct determination methods. (abridged)\\
+[https://arxiv.org/abs/2007.08991](https://arxiv.org/abs/2007.08991)
+
 ### 17/7/2020: Jessie Muir
 
 [Blinding multi-probe cosmological experiments](assets/talk_slides/muir_blinding_gccl-seminar_july2020.pdf)
