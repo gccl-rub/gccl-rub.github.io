@@ -28,3 +28,9 @@ layout: wrapper
   mijin.yoon@astro.ruhr-uni-bochum.de\\
   +49 234 3223450\\
   <img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
+
+- [Sandra Unruh](https://github.com/SandraUnruh)\\
+  (Bonn) AIfA 2.010\\
+  sandra.unruh@uni-bonn.de\\
+  +49 228 736588\\
+  <img src="assets/img/sandra.jpeg" alt="Sandra Unruh" width="250">  
