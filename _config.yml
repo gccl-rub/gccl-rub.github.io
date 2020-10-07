@@ -23,7 +23,8 @@ twitter_username: gccl-rub
 github_username:  gccl-rub
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: CommonMarkGhPages
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
