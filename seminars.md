@@ -24,7 +24,9 @@ Toward Solving the Puzzle: Dissecting the Complex Merger A521 with Multi-wavelen
   <summary>Abstract</summary>
  
 A521 has been a subject of extensive panchromatic studies from X-ray to radio. The cluster possesses a number of remarkable features including a bright radio relic with a steep spectrum, more than three distinct galaxy groups forming a filament, and two disturbed X-ray peaks at odds with the distant position and tilted orientation of the radio relic. These several lines of evidence indicate a complex merger. In this paper, we present a multi-wavelength study of A521 based on Subaru optical, Hubble Space Telescope infrared, Chandra X-ray, GMRT radio, and MMT optical spectroscopic observations. Our weak-lensing (WL) analysis with improved systematics control reveals that A521 is mainly composed of three substructures aligned in the northwest to southeast orientation. These WL mass substructures are remarkably well-aligned with the cluster optical luminosity distribution constructed from our new enhanced cluster member catalog. These individual substructure masses are determined by simultaneously fitting three NFW profiles. We find that the total mass of A521 modeled by the superposition of the three halos is 13.0+1.0−1.3×1014M⊙, a factor of two higher than the previous WL measurement. With these WL mass constraints combined with X-ray and radio features, we consider two merging scenarios, carry out the corresponding numerical simulations, and discuss strengths and weaknesses of each case.\\
+
 [https://arxiv.org/abs/2006.13535](https://arxiv.org/abs/2006.13535)
+
 </details>
 
 ### 18/9/2020: Yi-Kuan Chiang
