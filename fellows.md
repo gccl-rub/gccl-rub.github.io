@@ -17,6 +17,10 @@ layout: wrapper
   aimalz@astro.ruhr-uni-bochum.de\\
   +49 234 3223450
 
+- [Dr. Robert Reischke](https://github.com/rreischke)\\
+  GAFO 03\\
+  reischke@astro.ruhr-uni-bochum.de
+
 - [Dr. Angus H Wright](https://github.com/AngusWright)\\
   GAFO 03 / 923\\
   awright@astro.ruhr-uni-bochum.de\\
