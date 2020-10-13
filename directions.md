@@ -6,12 +6,12 @@ layout: wrapper
 
 # Directions
 
-German Centre for Cosmological Lensing\\
-Astronomisches Institut\\
-Ruhr-Universität Bochum\\
-Universitätsstr. 150\\
-44801 Bochum\\
-Germany
+German Centre for Cosmological Lensing  
+Astronomisches Institut  
+Ruhr-Universität Bochum  
+Universitätsstr. 150  
+44801 Bochum  
+Germany  
 
 
 ## Train travel to Bochum from Düsseldorf airport:
