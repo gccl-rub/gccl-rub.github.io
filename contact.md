@@ -6,12 +6,12 @@ layout: wrapper
 
 # Contact
 
-German Centre for Cosmological Lensing\\
-Astronomisches Institut\\
-Ruhr-Universität Bochum\\
-Universitätsstr. 150\\
-44801 Bochum\\
-Germany
+German Centre for Cosmological Lensing  
+Astronomisches Institut  
+Ruhr-Universität Bochum  
+Universitätsstr. 150  
+44801 Bochum  
+Germany  
 
 - [Prof. Dr. Catherine Heymans](https://www.roe.ac.uk/~heymans/)  
   GAFO 03 / 921  
