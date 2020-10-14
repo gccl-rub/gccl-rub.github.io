@@ -12,6 +12,10 @@ GAFO 03 / 923
   +49 234 3224224  
   <img src="assets/img/dvornik_temp.jpg" alt="Andrej Dvornik" width="250">
 
+- [Dr. Constance Mahony](https://github.com/crcmahony)  
+GAFO 03 / 966  
+  mahony@astro.ruhr-uni-bochum.de  
+
 - [Dr. Alex Malz](https://github.com/aimalz)  
 GAFO 03 / 925  
   aimalz@astro.ruhr-uni-bochum.de  
