@@ -16,6 +16,17 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 13/10/2020: Harry Johnston
 
+Systematic errors in weak lensing surveys and the utility of random galaxy catalogues
+
+<details>
+<summary markdown="span">Abstract</summary>
+ 
+ > In this talk I will discuss the potential for galaxy intrinsic alignments (IA), photometric redshifts and variable observational conditions to introduce systematic biases into analyses of weak lensing by the large-scale structure. IA introduce correlations between galaxy shapes, and between shapes and the density field, that are not sourced by gravitational lensing; these correlations have the potential to pollute measurable cosmic shear signals, and thus bias cosmological inference. Moreover, cross-talk between IA and photo-z complicates the self-calibration of IA in 3x2-point analyses which attempt to use galaxy positional information to constrain nuisance parameterisations. The positional statistics utilised in such analyses are also prone to biases, as deep photometric surveys suffer from observational conditions that can impede the detection of galaxies, resulting in inhomogeneous selection functions in RA/DEC, and redshift. I will discuss: the difficulties inherent to characterising the intrinsic alignments of galaxies; forecasts for their mitigation with various models/priors; and methods for constructing random galaxy catalogues that are able to mitigate the impacts of photo-z and variable selection functions in the estimation of 2-point statistics.
+ >
+ > [https://arxiv.org/abs/2010.09696](https://arxiv.org/abs/2010.09696)
+
+</details>
+
 ### 30/10/2020: Tomasz Kacprzak
 
 ### 16/10/2020: Mathew Madhavacheril
