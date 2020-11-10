@@ -12,6 +12,8 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 11/12/2020: Ziang Yan 
+
 ### 13/10/2020: Harry Johnston
 
 ### 30/10/2020: Tomasz Kacprzak
