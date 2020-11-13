@@ -16,7 +16,7 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 13/10/2020: Harry Johnston
 
-Systematic errors in weak lensing surveys and the utility of random galaxy catalogues
+[Systematic errors in weak lensing surveys and the utility of random galaxy catalogues](assets/talk_slides/johnston_Nov2020.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
