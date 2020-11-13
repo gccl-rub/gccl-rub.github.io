@@ -29,7 +29,27 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 30/10/2020: Tomasz Kacprzak
 
+[Cosmology with Artificial Intelligence](assets/gccl_kacprzak_201030.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+>In recent years Artificial Intelligence methods have found multiple applications in cosmology. These methods are particularly well suited for the analysis of large scale structure, as they are capable of creating rich and complex models of non-linear data. In this talk I will present the first cosmology constraints derived using deep convolutional neural networks, using the KiDS-450 dataset, achieving more constraining power than the equivalent analysis with conventional methods. This analysis relies on the training sets consisting of grids of precise simulations. Generative AI models can also be used to create simulations of various observables, considerably speeding up simulation time. I will discuss the current and future directions in the AI-oriented cosmological analysis.
+
+</details>
+
 ### 16/10/2020: Mathew Madhavacheril
+
+[The Atacama Cosmology Telescope: Weighing distant clusters with the most ancient light](assets/CMB_Cluster_Lensing_Madhavacheril.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+>We use gravitational lensing of the cosmic microwave background (CMB) to measure the mass of the most distant blindly-selected sample of galaxy clusters on which a lensing measurement has been performed to date. In CMB data from the the Atacama Cosmology Telescope (ACT) and the Planck satellite, we detect the stacked lensing effect from 677 near-infrared-selected galaxy clusters from the Massive and Distant Clusters of WISE Survey (MaDCoWS), which have a mean redshift of ⟨z⟩=1.08. There are no current optical weak lensing measurements of clusters that match the distance and average mass of this sample. We detect the lensing signal with a significance of 4.2σ. We model the signal with a halo model framework to find the mean mass of the population from which these clusters are drawn. Assuming that the clusters follow Navarro-Frenk-White density profiles, we infer a mean mass of ⟨M500c⟩=(1.7±0.4)×1014M⊙. We consider systematic uncertainties from cluster redshift errors, centering errors, and the shape of the NFW profile. These are all smaller than 30% of our reported uncertainty. This work highlights the potential of CMB lensing to enable cosmological constraints from the abundance of distant clusters populating ever larger volumes of the observable Universe, beyond the capabilities of optical weak lensing measurements.
+>
+>[https://arxiv.org/abs/2009.07772](https://arxiv.org/abs/2009.07772)
+
+</details>
 
 ### 4/10/2020: Mijin Yoon
 
