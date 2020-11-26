@@ -24,6 +24,7 @@ GAFO 03 / 925
 - [Dr. Robert Reischke](https://github.com/rreischke)  
 GAFO 03  
   reischke@astro.ruhr-uni-bochum.de
+  <img src="assets/img/rfreischke.png" alt="Robert Reischke" width="250">  
 
 - [Dr. Angus H Wright](https://github.com/AngusWright)  
 GAFO 03 / 923  
