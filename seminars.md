@@ -14,6 +14,19 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 11/12/2020: Ziang Yan 
 
+[Galaxy cluster mass estimation with deep learning and hydrodynamical simulations](assets/talk_slides/Yan_Dec2020.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > We evaluate the ability of Convolutional Neural Networks (CNNs) to predict galaxy cluster masses in the BAHAMAS hydrodynamical simulations. We train four separate single-channel networks using: stellar mass, soft X-ray flux, bolometric X-ray flux, and the Compton y parameter as observational tracers, respectively. Our training set consists of ∼4800 synthetic cluster images generated from the simulation, while an additional ∼3200 images form a validation set and a test set, each with 1600 images. In order to mimic real observation, these images also contain uncorrelated structures located within 50 Mpc in front and behind clusters and seen in projection, as well as instrumental systematics including noise and smoothing. In addition to CNNs for all the four observables, we also train a `multi-channel' CNN by combining the four observational tracers. The learning curves of all the five CNNs converge within 1000 epochs. The resulting predictions are especially precise for halo masses in the range 10^13.25M⊙<M<10^14.5M⊙, where all five networks produce mean mass biases of order ≈1\% with a scatter of ≲20\%. The network trained with Compton y parameter maps yields the most precise predictions. We interpret the network's behaviour using two diagnostic tests to determine which features are used to predict cluster mass. The CNN trained with stellar mass images detect galaxies (not surprisingly), while CNNs trained with gas-based tracers utilise the shape of the signal to estimate cluster mass.
+ >
+ > [https://arxiv.org/abs/2005.11819](https://arxiv.org/abs/2005.11819)
+
+</details>
+
+
+
 ### 13/10/2020: Harry Johnston
 
 [Systematic errors in weak lensing surveys and the utility of random galaxy catalogues](assets/talk_slides/johnston_Nov2020.pdf)
