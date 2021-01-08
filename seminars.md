@@ -12,6 +12,8 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 15/1/2020: Joachim Harnois Deraps 
+
 ### 11/12/2020: Ziang Yan 
 
 [Galaxy cluster mass estimation with deep learning and hydrodynamical simulations](assets/talk_slides/Yan_Dec2020.pdf)
