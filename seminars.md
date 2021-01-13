@@ -12,7 +12,18 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
-### 15/1/2020: Joachim Harnois Deraps 
+### 29/1/2021: Kate Storey-Fisher
+
+### 15/1/2021: Joachim Harnois Deraps 
+
+Cosmic Shear Cosmology Beyond 2-Point Statistics: A Combined Peak Count and Correlation Function Analysis of DES-Y1
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > [https://arxiv.org/abs/2012.02777](https://arxiv.org/abs/2012.02777)
+
+</details>
 
 ### 11/12/2020: Ziang Yan 
 
