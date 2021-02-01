@@ -16,6 +16,17 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 29/1/2021: Kate Storey-Fisher
 
+[Binning is sinning: Clustering estimation without bins](assets/talk_slides/storey_fisher_Jan21.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The primary statistic for extracting cosmological information from large-scale structure is the two-point correlation function. It is typically measured in hard-edged bins of separation between tracer pairs (in redshift space or sky angle, for example). In this talk I will present a new estimator for the correlation function, the Continuous-Function Estimator, which generalizes the standard binned method to any basis function representation; it performs a least-squares fit of the pairs to this basis. This estimator can produce a continuous correlation function estimate with a small number of components; this is more scientifically appropriate and is critical for precise covariance matrix estimation. I will demonstrate the estimator with a basis designed to directly measure the baryon acoustic scale. I will discuss other potential applications of the Continuous-Function Estimator, such as investigating the dependence of clustering on galaxy properties and searching for anisotropies in large-scale structure.
+ >
+ > [https://arxiv.org/abs/2011.01836](https://arxiv.org/abs/2011.01836)
+
+</details>
+
 ### 15/1/2021: Joachim Harnois Deraps 
 
 [Cosmic Shear Cosmology Beyond 2-Point Statistics: A Combined Peak Count and Correlation Function Analysis of DES-Y1](assets/talk_slides/harnois_deraps_Jan2021.pdf)
