@@ -12,7 +12,9 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
-### 12/2/2021 Marco Gatti
+### 26/2/2021: Alexie Leauthaud
+
+### 12/2/2021: Marco Gatti
 
 ### 29/1/2021: Kate Storey-Fisher
 
