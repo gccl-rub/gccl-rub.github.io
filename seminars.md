@@ -16,6 +16,17 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 12/2/2021: Marco Gatti
 
+Clustering Redshifts in DES Y3 and the DES Y3 photo-z calibration strategy
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ >Clustering redshift methods exploit the two-point correlation signal between a photometric “unknown” sample and a “reference” sample of high fidelity redshift galaxies divided into thin bins to infer the redshift distributions of the photometric sample. In this seminar I will present the calibration of the Dark Energy Survey Year 3 (DES Y3) weak lensing source galaxy redshift distributions \uD835\uDC5B(\uD835\uDC67) from clustering measurements. Two distinct methods for using the clustering statistics will be described. The first uses the clustering information independently to estimate the mean redshift of the source galaxies within a redshift window. The second method establishes a likelihood of the clustering data as a function of \uD835\uDC5B(\uD835\uDC67), which can be incorporated into schemes for generating samples of \uD835\uDC5B(\uD835\uDC67) subject to combined clustering and photometric constraints. I will discuss the application of the two methods to data, and the role of clustering redshift in the overall DES Y3 photo-z calibration strategy.
+ >
+ > [https://arxiv.org/abs/2012.08569](https://arxiv.org/abs/2012.08569)
+
+</details>
+
 ### 29/1/2021: Kate Storey-Fisher
 
 [Binning is sinning: Clustering estimation without bins](assets/talk_slides/storey_fisher_Jan21.pdf)
