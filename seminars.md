@@ -14,9 +14,20 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 26/2/2021: Alexie Leauthaud
 
+Lensing Without Borders
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ >Lensing without borders is a cross-survey collaborative effort to test for the consistency of lensing signals across multiple lensing data sets and to play empirical constraints on the level of systematic errors. In this seminar, I will show results from Lensing Without Borders and will present empirical estimates for systematic errors. Lensing without borders uses tests based on galaxy-galaxy lensing and is based on the premise that the lensing signal around galaxies drawn from the BOSS survey should be independent of which survey is performing the measurement.
+ >
+
+</details>
+
+
 ### 12/2/2021: Marco Gatti
 
-Clustering Redshifts in DES Y3 and the DES Y3 photo-z calibration strategy
+[Clustering Redshifts in DES Y3 and the DES Y3 photo-z calibration strategy](assets/talk_slides/gatti_feb2021.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
