@@ -12,6 +12,8 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 12/3/2021: Vanessa B&ouml;hm
+
 ### 26/2/2021: Alexie Leauthaud
 
 Lensing Without Borders
