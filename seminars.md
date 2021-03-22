@@ -12,7 +12,21 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 26/3/2021: Susan Pyne
+
+
 ### 12/3/2021: Vanessa B&ouml;hm
+
+[Inference from weak gravitational lensing with fast forward models (the MADLens code)](assets/talk_slides/Boehm_march2021.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ >Upcoming experiments such as the LSST survey (Vera Rubin Observatory) or the EUCLID satellite will probe the weak cosmic shear signal far into the non-gaussian regime. These new datasets mark the end of an era in which power spectra analyses and linear models were close to optimal for extracting cosmological information from weak lensing data. New datasets require non-linear models and inference schemes that can accurately extract information from non-Gaussian signals. In my talk I will explore new avenues for weak gravitational lensing analysis and argue that they all rely on fast and differentiable data models. I will show how automatic differentiation which lies at the heart of deep neural networks can be exploited to develop differentiable N-body simulations and present MADLens, a fully differentiable weak gravitational lensing simulator that produces non-Gaussian convergence maps at unprecedented accuracy and low computational cost.
+ >
+ > [https://arxiv.org/abs/2012.07266](https://arxiv.org/abs/2012.07266)
+
+</details>
 
 ### 26/2/2021: Alexie Leauthaud
 
