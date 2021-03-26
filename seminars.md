@@ -12,8 +12,19 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 9/4/2021: Pablo Lemos
+
 ### 26/3/2021: Susan Pyne
 
+Self-calibration of weak lensing systematic effects using combined two- and three-point statistics
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ >
+ > [https://arxiv.org/abs/2010.00614](https://arxiv.org/abs/2010.00614)
+
+</details>
 
 ### 12/3/2021: Vanessa B&ouml;hm
 
