@@ -12,6 +12,8 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 21/5/2021: Sihao Cheng 
+
 ### 7/5/2021: Pablo Lemos
 
 ### 23/4/2021: Susan Pyne
