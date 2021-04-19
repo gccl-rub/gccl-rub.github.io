@@ -23,6 +23,7 @@ Self-calibration of weak lensing systematic effects using combined two- and thre
 <details>
 <summary markdown="span">Abstract</summary>
 
+ > Estimation of cosmological parameters from next-generation weak-lensing surveys will be hampered mainly by systematic uncertainties, with statistical errors relatively well under control. This makes it worthwhile to explore novel ways to mitigate systematics. In the context of a Euclid-like survey, I will present results which suggest that three-point statistics have great potential in this respect.  Looking at three major systematics - intrinsic alignments, photometric redshift uncertainties and multiplicative shear bias - I will show that a combined power spectrum-bispectrum analysis can be much more effective than the alternative of using two-point statistics with tight priors on nuisance parameters.  On top of this, three-point statistics can self-calibrate the systematic effects, reducing the need for external calibration data.
  >
  > [https://arxiv.org/abs/2010.00614](https://arxiv.org/abs/2010.00614)
 
