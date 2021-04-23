@@ -14,11 +14,22 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 21/5/2021: Sihao Cheng 
 
+A new vocabulary for patterns and its cosmological applications,
+or, CNN without training
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > Textures and patterns are ubiquitous in astronomical data but challenging for quantitative analysis. I will present a new statistic, called the “scattering transform”, which borrows ideas from convolutional neural nets but requires no training. I will discuss its intuitive understandings. As an example, I will also show its application to information extraction from weak lensing maps, where it outperforms classic statistics and is on a par with neural nets. It is a powerful new approach in cosmology and beyond.
+ >
+
+</details>
+
 ### 7/5/2021: Pablo Lemos
 
 ### 23/4/2021: Susan Pyne
 
-Self-calibration of weak lensing systematic effects using combined two- and three-point statistics
+[Self-calibration of weak lensing systematic effects using combined two- and three-point statistics](assets/talk_slides/Pyne_Apr21.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
