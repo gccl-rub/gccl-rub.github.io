@@ -14,7 +14,7 @@ GAFO 03 / 923
 
 - [Dr. Constance Mahony](https://github.com/crcmahony)  
 GAFO 03 / 966  
-  mahony@astro.ruhr-uni-bochum.de
+  mahony@astro.ruhr-uni-bochum.de   
   <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
 
 - [Dr. Alex Malz](https://github.com/aimalz)  
