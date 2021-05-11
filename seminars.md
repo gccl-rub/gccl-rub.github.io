@@ -27,6 +27,17 @@ or, CNN without training
 
 ### 7/5/2021: Pablo Lemos
 
+[Cosmological tensions and how to find them](assets/talk_slides/Lemos_May21.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > Cosmological tensions are of fundamental importance. Despite the increase in the precision and amount of data, the theory of Cosmology remains essentially the same as it has been for the last two decades. These tensions between measurements  of the early and late Universe are at present the only existing hint of new physics in Cosmology. I will discuss methods to quantify tension. I will propose the `Suspiciousness’ statistic as the best metric of tension for cosmological problems, as it consists of fully Bayesian quantities, and does not depend on the prior volume. I will also discuss how this metric can be used for internal consistency tests, which are fundamental for present and future cosmological surveys. I will then apply this statistic to current cosmological data, and use it to quantify the consistency between Planck and the Dark Energy Survey Y1 data, as well as between three different Cosmic Microwave Background experiments (Planck, SPT and ACT). 
+ >
+ > [https://arxiv.org/abs/2010.00614](https://arxiv.org/abs/2012.09554)
+
+</details>
+
 ### 23/4/2021: Susan Pyne
 
 [Self-calibration of weak lensing systematic effects using combined two- and three-point statistics](assets/talk_slides/Pyne_Apr21.pdf)
