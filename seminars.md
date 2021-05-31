@@ -14,8 +14,7 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 21/5/2021: Sihao Cheng 
 
-A new vocabulary for patterns and its cosmological applications,
-or, CNN without training
+[A new vocabulary for patterns and its cosmological applications, or, CNN without training](assets/talk_slides/Cheng_may21.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
