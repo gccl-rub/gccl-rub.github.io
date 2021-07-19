@@ -12,6 +12,17 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 16/7/2021: Alex Amon
+
+[Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration]
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > [https://arxiv.org/abs/2105.13543](https://arxiv.org/abs/2105.13543)
+
+</details>
+
 ### 18/6/2021: Niall Jeffrey
 
 [DES Year 3: curved-sky weak lensing mass map reconstruction and applications](assets/talk_slides/jeffrey_June21.pdf)
