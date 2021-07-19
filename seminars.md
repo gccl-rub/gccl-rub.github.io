@@ -14,7 +14,7 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 16/7/2021: Alex Amon
 
-[Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration]
+Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration
 
 <details>
 <summary markdown="span">Abstract</summary>
