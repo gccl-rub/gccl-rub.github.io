@@ -14,9 +14,20 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 30/7/2021: Michael Chapman
 
+Measuring the growth rate using small-scale clustering in eBOSS
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > Galaxy clustering measurements of the growth rate of cosmic structure provide important constraints on theories of modified gravity on cosmological scales. These measurements are typically made on large scales where the effect on the clustering is linear, however recent attempts to extract information on the growth rate using quasi-linear and non-linear scales have found a significant improvement in precision. I will present our measurement of the growth rate from the small-scale clustering of the eBOSS Luminous Red Galaxy sample with fibre-collisions corrected by an unbiased statistical method (pairwise-inverse probability weighting) and fit with a model based on the Aemulus cosmological emulator. Using the quasi-linear scales we measure the growth rate with nearly a factor of two improvement in precision over the large-scale analysis of the same sample, continuing the trend of galaxy clustering measurements yielding low values of the growth rate compared to LCDM+Planck2018 predictions and giving greater consistency with recent weak-lensing measurements of S_8. We also perform a consistency test with LCDM using the full separation range of the emulator and find a 4.5-sigma tension with the LCDM expectation, with the greatest tension coming from the non-linear scales. Our analysis also provides important insights for planning similar measurements using upcoming large surveys.
+ >
+ > [https://arxiv.org/abs/2106.14961](https://arxiv.org/abs/2106.14961)
+
+</details>
+
 ### 16/7/2021: Alex Amon
 
-Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration
+[Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration](assets/talk_slides/Amon_Jul21.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
