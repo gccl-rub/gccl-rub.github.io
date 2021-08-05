@@ -14,7 +14,7 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 30/7/2021: Michael Chapman
 
-Measuring the growth rate using small-scale clustering in eBOSS
+[Measuring the growth rate using small-scale clustering in eBOSS](assets/talk_slides/chapman_Jul21.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
