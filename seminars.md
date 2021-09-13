@@ -14,6 +14,17 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 10/9/2021: Adam Broussard
 
+[Using a Neural Network Classifier to Select Galaxies with the Most Accurate Photometric Redshifts](assets/talk_slides/broussard_sept21.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) will produce several billion photometric redshifts (photo-z's), enabling cosmological analyses to select a subset of galaxies with the most accurate photo-z.  We perform initial redshift fits on Subaru Strategic Program galaxies with deep grizy photometry using Trees for Photo-Z (TPZ) before applying a custom neural network classifier (NNC) tuned to select galaxies with (zphot - zspec)/(1+zspec) < 0.10.  We consider four cases of training and test sets ranging from an idealized case to using data augmentation to increase the representation of dim galaxies in the training set.  Selections made using the NNC yield significant further improvements in outlier fraction and photo-z scatter (σz) over those made with typical photo-z uncertainties.  As an example, when selecting the best third of the galaxy sample, the NNC achieves a 35% improvement in outlier rate and a 23% improvement in σz compared to using uncertainties from TPZ.  For cosmology and galaxy evolution studies, this method can be tuned to retain a particular sample size or to achieve a desired photo-z accuracy; our results show that it is possible to retain more than a third of an LSST-like galaxy sample while reducing σz by a factor of two compared to the full sample, with one-fifth as many photo-z outliers.  For surveys like LSST that are not limited by shot noise, this method enables a larger number of tomographic redshift bins and hence a significant increase in the total signal-to-noise of galaxy angular power spectra.
+ >
+ > [https://arxiv.org/abs/2108.13260](https://arxiv.org/abs/2108.13260)
+
+</details>
+
 ### 30/7/2021: Michael Chapman
 
 [Measuring the growth rate using small-scale clustering in eBOSS](assets/talk_slides/chapman_Jul21.pdf)
