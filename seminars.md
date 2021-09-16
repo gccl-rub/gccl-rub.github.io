@@ -12,6 +12,10 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 8/10/2021: Laila Linke
+
+### 24/9/2021: Tilman Tr&ouml;ster
+
 ### 10/9/2021: Adam Broussard
 
 [Using a Neural Network Classifier to Select Galaxies with the Most Accurate Photometric Redshifts](assets/talk_slides/broussard_sept21.pdf)
