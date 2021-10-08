@@ -14,7 +14,7 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ### 8/10/2021: Laila Linke
 
-Using three-point functions of galaxies and matter to test galaxy models and cosmology
+[Using three-point functions of galaxies and matter to test galaxy models and cosmology](assets/talk_slides/linke_oct21.pdf)
 
 <details>
 <summary markdown="span">Abstract</summary>
