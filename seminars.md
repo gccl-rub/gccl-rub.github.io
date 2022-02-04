@@ -12,6 +12,22 @@ If you would like to give a seminar at the GCCL please contact Dr. Constance Mah
 
 ## Seminar Schedule
 
+### 4/2/2022: Gabriel Bartosch Caminha
+
+[Cosmological constraints with galaxy cluster strong lenses](assets/talk_slides/Caminha_2022_Feb.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > Galaxy cluster strong lensing has numerous applications in cosmology. Thanks to the wealth of multi-wavelength observations of clusters using state-of-the-art observatories, such as the Hubble Space Telescope and the Very Large Telescope, this field provides significant contributions to the understanding of our Universe. One of the main points still to be fully understood is the nature of the components that drives the evolution of the Universe, such as Dark Matter and Energy. This issue motivates further tests on the ΛCDM model, both at small and large scales, and they play an essential role in the concept and design of cosmological observations and programs.
+>
+> One cosmological probe not yet fully explored is the cluster strong lensing cosmography. In this talk, I will present the combined strong lensing constraints from a sample of clusters on the background geometry of the Universe  (see Caminha et al. 2022 A&A 657, 83, arXiv:2110.06232), in contrast to what was done with single systems until today. I will show that these strong lensing constraints are powerful in probing Ωm and the equation of state of the dark energy, including its evolution with redshift. Finally, I will show that strong lensing cosmography nicely complements other traditional probes such as the cosmic microwave background, Supernovae-Ia and Baryonic Acoustic Oscillations. Hence, cluster strong lensing can be a competitive cosmological probe and paramount in the observations of the next generation of telescopes such as the James Webb Space Telescope, Rubin Observatory Legacy Survey of Space and Time (LSST) and Euclid space telescope.
+ >
+ > [https://arxiv.org/abs/2110.06232](https://arxiv.org/abs/2110.06232)
+
+</details>
+
+
 ### 8/10/2021: Laila Linke
 
 [Using three-point functions of galaxies and matter to test galaxy models and cosmology](assets/talk_slides/linke_oct21.pdf)
