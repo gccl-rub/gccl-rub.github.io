@@ -50,8 +50,16 @@ GAFO 03 / 925
   caminha@mpa-garching.mpg.de   
   <img src="assets/img/Caminha_lowres.jpg" alt="Gabriel B. Caminha" width="250">  
 
+- [Dr. Ziang Yan](http://yanzastro.github.io)  
+GAFO 03 / 925  
+  yanza21@astro.ruhr-uni-bochum.de  
+  +49 234 3223450  
+  <img src="assets/img/ziangyan.jpg" alt="Ziang Yan" width="250">  
+
 - [Jan Luca van den Busch](https://github.com/jlvdb)   
 GAFO 03 / 924  
   jlvdb@astro.rub.de  
   +49 234 3224063  
   <img src="assets/img/jlvdb.jpg" alt="Jan Luca van den Busch" width="250">  
+  
+
