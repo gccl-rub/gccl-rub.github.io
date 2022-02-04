@@ -54,7 +54,7 @@ GAFO 03 / 925
 GAFO 03 / 925  
   yanza21@astro.ruhr-uni-bochum.de  
   +49 234 3223450  
-  <img src="assets/img/ziangyan.jpg" alt="Ziang Yan" width="250">  
+  <img src="assets/img/ziangyan.png" alt="Ziang Yan" width="250">  
 
 - [Jan Luca van den Busch](https://github.com/jlvdb)   
 GAFO 03 / 924  
