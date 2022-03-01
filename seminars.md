@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 18/2/2022: Anik Halder
+
+[Response approach to the integrated shear 3-point correlation function: the impact of baryonic effects on small scales](assets/talk_slides/Halder_2022_Feb.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The integrated shear 3-point correlation function (i3PCF) is a higher-order lensing statistic that can be measured directly from cosmic shear data by correlating 1-point aperture mass statistics with local shear 2-point correlation functions (2PCF) measured within well-defined patches (or apertures) distributed across a survey footprint. In our recent work, we have introduced a new theoretical model using the response function approach to perturbation theory to calculate i3PCF that is (i) accurate on small angular scales, and (ii) that allows to take baryonic feedback effects into account similar to how they are currently accounted for in 2PCFs. I will discuss both these aspects and present Fisher forecasts which show that compared to a 2PCF only analysis, a combined 2PCF & i3PCF analysis can lead to significant improvements on the constraints of both cosmological and baryonic feedback parameters. This strengthens the prospects for cosmic shear data to obtain tighter constraints not only on cosmology but also on astrophysical feedback models using higher-order lensing statistics.
+ >
+ > [https://arxiv.org/abs/2201.05607](https://arxiv.org/abs/2201.05607)
+
+</details>
+
+
 ### 4/2/2022: Gabriel Bartosch Caminha
 
 [Cosmological constraints with galaxy cluster strong lenses](assets/talk_slides/Caminha_2022_Feb.pdf)
