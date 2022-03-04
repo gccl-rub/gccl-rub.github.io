@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 4/3/2022: Alex Hall
+
+[Cosmology from weak lensing alone and implications for the Hubble tension](assets/talk_slides/Hall_2022_Mar.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The quantity and quality of cosmic shear data that can be accurately modelled has grown significantly in recent years and will continue to grow with Euclid and Rubin fast approaching. With this ever-growing volume of data there is a risk that the physical interpretation of the resulting parameter constraints is obscured - such an interpretation is particularly desirable given the possibility that undiagnosed systematics might be present. In this talk I will discuss what cosmic shear surveys tell us about the cosmological parameters of Lambda-CDM. Using the halo model I will explain why current cosmic shear analyses seem to have almost no sensitivity to the Hubble constant and instead constrain well the 'S8' parameter combination. Finally I will discuss whether cosmic shear will ever be able to throw light on the 'Hubble tension', and present new results combining shear with CMB lensing and BAO to measure H0 independently of both the primordial microwave background fluctuations and the local distance ladder.
+ >
+ > [https://arxiv.org/abs/2104.12880](https://arxiv.org/abs/2104.12880)
+
+</details>
+
+
 ### 18/2/2022: Anik Halder
 
 [Response approach to the integrated shear 3-point correlation function: the impact of baryonic effects on small scales](assets/talk_slides/Halder_2022_Feb.pdf)
