@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 25/3/2022: Constance Mahony
+
+[The halo model with beyond-linear halo bias](assets/talk_slides/Mahony_2022_Mar.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The halo model is a phenomenological model often used to interpret the large-scale structure of the Universe. In this model all dark matter exists within dark matter halos, which trace the underlying matter fluctuations. In its most generic form it includes a number of approximations such as dark matter halos are spherical and can be completely described by their mass, and that the halos trace the underlying matter fluctuations in a linearly biased way – linear halo bias. These assumptions have provided a useful description of large-scale structure observables until now, but with ever improving datasets need to be revisited. In this talk I will present the error introduced in a joint halo model analysis of galaxy-galaxy lensing and galaxy clustering observables when adopting the standard approximation of linear halo bias. I will discuss how we include beyond-linear halo bias, compare to an alternative approach, and show that the direction of the sizable offsets depends on the freedom afforded to the halo model through other nuisance parameters. Finally, I will conclude that beyond-linear halo bias must be included in future cosmological halo model analyses of large-scale structure observables on non-linear scales.
+ >
+ > [https://arxiv.org/abs/2202.01790](https://arxiv.org/abs/2202.01790)
+
+</details>
+
+
 ### 4/3/2022: Alex Hall
 
 [Cosmology from weak lensing alone and implications for the Hubble tension](assets/talk_slides/Hall_2022_Mar.pdf)
@@ -48,8 +62,8 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 <summary markdown="span">Abstract</summary>
 
  > Galaxy cluster strong lensing has numerous applications in cosmology. Thanks to the wealth of multi-wavelength observations of clusters using state-of-the-art observatories, such as the Hubble Space Telescope and the Very Large Telescope, this field provides significant contributions to the understanding of our Universe. One of the main points still to be fully understood is the nature of the components that drives the evolution of the Universe, such as Dark Matter and Energy. This issue motivates further tests on the ΛCDM model, both at small and large scales, and they play an essential role in the concept and design of cosmological observations and programs.
->
-> One cosmological probe not yet fully explored is the cluster strong lensing cosmography. In this talk, I will present the combined strong lensing constraints from a sample of clusters on the background geometry of the Universe  (see Caminha et al. 2022 A&A 657, 83, arXiv:2110.06232), in contrast to what was done with single systems until today. I will show that these strong lensing constraints are powerful in probing Ωm and the equation of state of the dark energy, including its evolution with redshift. Finally, I will show that strong lensing cosmography nicely complements other traditional probes such as the cosmic microwave background, Supernovae-Ia and Baryonic Acoustic Oscillations. Hence, cluster strong lensing can be a competitive cosmological probe and paramount in the observations of the next generation of telescopes such as the James Webb Space Telescope, Rubin Observatory Legacy Survey of Space and Time (LSST) and Euclid space telescope.
+ >
+ > One cosmological probe not yet fully explored is the cluster strong lensing cosmography. In this talk, I will present the combined strong lensing constraints from a sample of clusters on the background geometry of the Universe  (see Caminha et al. 2022 A&A 657, 83, arXiv:2110.06232), in contrast to what was done with single systems until today. I will show that these strong lensing constraints are powerful in probing Ωm and the equation of state of the dark energy, including its evolution with redshift. Finally, I will show that strong lensing cosmography nicely complements other traditional probes such as the cosmic microwave background, Supernovae-Ia and Baryonic Acoustic Oscillations. Hence, cluster strong lensing can be a competitive cosmological probe and paramount in the observations of the next generation of telescopes such as the James Webb Space Telescope, Rubin Observatory Legacy Survey of Space and Time (LSST) and Euclid space telescope.
  >
  > [https://arxiv.org/abs/2110.06232](https://arxiv.org/abs/2110.06232)
 
