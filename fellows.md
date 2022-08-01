@@ -61,17 +61,17 @@ GAFO 03 / 925
 
 # GCCL Fellow Alumni
 
-- [Dr. Fabian Kohlinger](https://de.linkedin.com/in/fabian-koehlinger) 
+- [Dr. Fabian Kohlinger](https://de.linkedin.com/in/fabian-koehlinger)  
 GCCL: 2019, now working in data science
 
 - [Dr. Alex Malz](https://github.com/aimalz)  
 GCCL: 2019-2022, now working at Carnegie Mellon University
 
-- [Dr. Alex Mead](https://alexander-mead.github.io) 
+- [Dr. Alex Mead](https://alexander-mead.github.io)  
 GCCL: 2021, now working at UBC
  <img src="assets/img/Alex_Mead.jpg" alt="Alex Mead" width="250">  
 
-- [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377) 
+- [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377)   
 GCCL: 2020-2022, now faculty at Purple Mountain Observatory 
  <img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
 
