@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 24/2/2023: Benjamin Giblin
+
+[Enhanced cosmic shear with the multiscale lensing PDF](assets/talk_slides/Giblin_2023_Feb.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > ...
+ >
+ > [https://arxiv.org/abs/2211.05708](https://arxiv.org/abs/2211.05708)
+
+</details>
+
+
 ### 25/3/2022: Constance Mahony
 
 [The halo model with beyond-linear halo bias](assets/talk_slides/Mahony_2022_Mar.pdf)
