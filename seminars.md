@@ -12,7 +12,7 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
-### 24/2/2023: Benjamin Giblin
+### 24/2/2023: Benjamin Giblin & LMU/USM - extragalactic lensing group
 
 [Enhanced cosmic shear with the multiscale lensing PDF](assets/talk_slides/Giblin_2023_Feb.pdf)
 
@@ -24,6 +24,8 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
  > [https://arxiv.org/abs/2211.05708](https://arxiv.org/abs/2211.05708)
 
 </details>
+
+[Research group presentation](assets/talk_slides/LMU_group_2023_Feb.pdf)
 
 
 ### 25/3/2022: Constance Mahony
