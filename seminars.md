@@ -19,7 +19,7 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 <details>
 <summary markdown="span">Abstract</summary>
 
- > ...
+ > The second-order lensing statistics commonly used to constrain cosmological parameters fail to extract all available information from our data due to the non-Gaussian density distribution of large-scale structure. In order to enhance cosmic shear constraints, we turn to the multi-scale lensing PDF - the one-point probability density of weak lensing convergence maps - modelling this statistic with a Gaussian process emulator trained on N-body simulations. We find that for a mock KiDS-like survey, the PDFs yield 33% tighter constraints on the clustering parameter S_8 than two-point shear correlation functions. We demonstrate that the gain in precision from the PDFs is somewhat inhibited by the lower signal-to-noise in stage III lensing surveys, but in the case of an Stage-IV-like mock survey, PDFs achieve >90% tighter constraints on S_8, as well as the Hubble and dark energy equation of state parameters. We find improvements when combining these two probes only in our Stage-III setup; in the Stage-IV scenario the lensing PDFs contain all information from the standard two-point statistics and more. This suggests that while these two probes are currently complementary, the lower noise levels of upcoming surveys will unleash the constraining power of the PDF.
  >
  > [https://arxiv.org/abs/2211.05708](https://arxiv.org/abs/2211.05708)
 
