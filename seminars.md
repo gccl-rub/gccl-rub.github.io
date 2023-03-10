@@ -12,6 +12,22 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 10/3/2023: Nicolas Tessore & LMU: Astrophysics, cosmology, and artificial intelligence reserach group
+
+[GLASS - Generator for Large Scale Structure](assets/talk_slides/Tessore_2023_Mar.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > I present GLASS, the Generator for Large Scale Structure, which is a new Python library for creating large & fast simulations for cosmology on the sphere. On the theoretical side, I give a brief overview of issues in current methodology, and solutions that are not limited to GLASS but relevant for any such simulation. Then I show examples of simulations for Stage 4 photometric galaxy surveys such as Euclid or LSST. I conclude with a look at ongoing developments, and how to extend or interface GLASS with your own models.
+ >
+ > [https://arxiv.org/abs/2302.01942](https://arxiv.org/abs/2302.01942)
+
+</details>
+
+Research group presentation (Daniel Grün): [LMU (Astrophysics, cosmology, and artificial intelligence reserach group)](assets/talk_slides/LMU_group_Gruen_2023_Mar.pdf)
+
+
 ### 24/2/2023: Benjamin Giblin & LMU/USM: Extragalactic research group
 
 [Enhanced cosmic shear with the multiscale lensing PDF](assets/talk_slides/Giblin_2023_Feb.pdf)
@@ -25,7 +41,7 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 </details>
 
-Research group presentation (Stella Seitz): [Munich University Observatory (Extragalactic research group)](assets/talk_slides/LMU_group_2023_Feb.pdf)
+Research group presentation (Stella Seitz): [Munich University Observatory (Extragalactic research group)](assets/talk_slides/LMU_group_Seitz_2023_Feb.pdf)
 
 
 ### 25/3/2022: Constance Mahony
