@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 24/3/2023: Arthur Loureiro
+
+[Almanac: Generic Field Level Inference for Full-Sky Cosmological Fields and Angular Power Spectra](assets/talk_slides/Loureiro_2023_Mar.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > With the advent of Euclid, LSST, and other future galaxy surveys, galaxy shapes will soon be mapped at an unprecedented precision over a large portion of the sky, such that sky curvature becomes influential. To meet the challenge of analysing such data of unseen precision and size, we present a Bayesian solution for simultaneously inferring the power spectra and mass maps of cosmic shear fields on the sphere. Our solution is able to measure E-mode power spectra on the masked sky and addresses the problem of EB-leakage and so-called ambiguous modes caused by the mask. Our method also treats the masked sky patches as a missing data problem, being able to recover some of the information under the mask. The inference of power spectra and de-noised maps is achieved via Hamilton Monte Carlo Sampling, such that the final output of our approach is the point estimate of the most likely power spectra, the most-likely maps, their variance and covariance, as well as the full posterior of these quantities, which is found to be significantly non-Gaussian. In this talk, we will present updates on the current state of this project as well as some significant improvements towards applying this technique to Stage-IV Surveys.
+ >
+ > [https://arxiv.org/abs/2210.13260](https://arxiv.org/abs/2210.13260)
+
+</details>
+
+
 ### 10/3/2023: Nicolas Tessore & LMU: Astrophysics, cosmology, and artificial intelligence reserach group
 
 [GLASS - Generator for Large Scale Structure](assets/talk_slides/Tessore_2023_Mar.pdf)
