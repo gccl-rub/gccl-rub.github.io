@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 21/4/2023: Markus Michael Rau
+
+[Weak Lensing Tomographic Redshift Distribution Inference for the HSC Year 3](assets/talk_slides/Rau_2023_Apr.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > I present the Weak Lensing Tomographic Redshift Distribution Inference strategy for the HSC Year 3 analysis. Using the galaxies' photometry and spatial cross-correlations, we conduct a combined Bayesian Hierarchical Inference of the sample redshift distributions. I discuss the details of our inference and demonstrate consistency between the sample redshift distributions derived using the spatial cross-correlations, the photometry, and the posterior of the combined analysis. Based on a critical assessment of the limitations in the available calibration data, I discuss our prior choices for the HSC Year 3 Weak Lensing cosmological analyses.
+ >
+ > [https://arxiv.org/abs/2211.16516](https://arxiv.org/abs/2211.16516)
+
+</details>
+
+
 ### 24/3/2023: Arthur Loureiro
 
 [Almanac: Generic Field Level Inference for Full-Sky Cosmological Fields and Angular Power Spectra](assets/talk_slides/Loureiro_2023_Mar.pdf)
