@@ -12,6 +12,22 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 5/4/2023: Laurence Gong
+
+[Cosmology from the integrated shear 3-point correlation function: simulated likelihood analyses with machine-learning emulators](assets/talk_slides/Gong_2023_May.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The integrated shear 3-point correlation function ζ± measures the correlation between the local shear 2-point function ξ± and the 1-point shear aperture mass in patches of the sky. Here, we develop and test a likelihood analysis pipeline for cosmological constraints using ζ±. We incorporate treatment of systematic effects from photometric redshift uncertainties, shear calibration bias and galaxy intrinsic alignments. We also develop an accurate neural-network emulator for fast theory predictions in MCMC parameter inference analyses. We test our pipeline using realistic cosmic shear maps based on N-body simulations with a DES Y3-like footprint, mask and source tomographic bins, finding unbiased parameter constraints. Relative to ξ±-only, adding ζ± can lead to ≈10−25% improvements on the constraints of parameters like As (or σ8) and w0. We find no evidence in ξ±+ζ± constraints of a significant mitigation of the impact of systematics. We also investigate the impact of the size of the apertures where ζ± is measured, and of the strategy to estimate the covariance matrix (N-body vs. lognormal). Our analysis solidifies the strong potential of the ζ± statistic and puts forward a pipeline that can be readily used to improve cosmological constraints using real cosmic shear data.
+ >
+ > [https://arxiv.org/abs/2304.01187](https://arxiv.org/abs/2304.01187)
+
+</details>
+
+
+## Seminar Schedule
+
 ### 21/4/2023: Markus Michael Rau
 
 [Weak Lensing Tomographic Redshift Distribution Inference for the HSC Year 3](assets/talk_slides/Rau_2023_Apr.pdf)
