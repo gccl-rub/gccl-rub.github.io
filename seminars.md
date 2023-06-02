@@ -12,6 +12,22 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 6/2/2023: Hironao Miyatake
+
+[Cosmology from Galaxy Clustering and Weak Lensing with HSC-Y3 and SDSS using the Emulator-Based Halo Model](assets/talk_slides/Miyatake_2023_June.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The accelerating expansion of the universe is one of the most mysterious phenomena. Cosmic acceleration implies the existence of dark energy or the breakdown of Einstein's general relativity. Either way, revealing the source of cosmic acceleration can result in a paradigm shift in modern physics. Weak lensing is one of the most powerful cosmological probes because of its capability to measure the nature of cosmic acceleration through the evolution of the large-scale structure of the universe. Hyper Suprime-Cam (HSC), a newly developed prime focus camera at Subaru Telescope, started a wide, deep galaxy imaging survey in 2014, covering 1,100 sq. degrees of the sky down to the i-band limiting magnitude of 26. In this talk, I will present cosmological constraints from cosmic shear and the combination of galaxy-galaxy lensing and clustering, where SDSS spectroscopic galaxies are used as a tracer. I will mainly discuss the use of galaxy-galaxy lensing and clustering signals down to intermediate scales enabled by our cosmic emulator (Dark Emulator) and the marginalization of photometric redshift uncertainties.
+ >
+ > [https://arxiv.org/abs/2304.00704](https://arxiv.org/abs/2304.00704)
+
+</details>
+
+Research group presentation (Sherry Suyu): [Observational Cosmology research group at TUM](https://www.ph.nat.tum.de/observational-cosmology/home/)
+
+
 ### 5/4/2023: Laurence Gong
 
 [Cosmology from the integrated shear 3-point correlation function: simulated likelihood analyses with machine-learning emulators](assets/talk_slides/Gong_2023_May.pdf)
@@ -25,8 +41,6 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 </details>
 
-
-## Seminar Schedule
 
 ### 21/4/2023: Markus Michael Rau
 
