@@ -12,6 +12,20 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+### 6/16/2023: Frank Qu
+
+[Cosmology from high-precision CMB lensing measurements with the Atacama Cosmology Telescope](assets/talk_slides/Qu_2023_June.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > The cosmic microwave background provides a unique backlight for illuminating the growth of structures in our universe. Measuring the arcminute-scale lensing deflections experienced by the CMB photons as they travel to our telescopes enables the mapping of the matter distribution to very high redshifts. This lensing signal provides a clean window for constraining fundamental physics, such as the sum of neutrino masses, and enables powerful tests of the standard cosmological model via comparison of high-precision measurements of structure growth at late times with early-time predictions. In this talk, I will present new CMB lensing measurements derived from data release 6 of the Atacama Cosmology Telescope. Our work provides a state-of-the-art lensing power spectrum measurement and an associated signal-dominated lensing mass map that enable a host of cosmological and astrophysical science goals. I will first discuss the novel methods used to tackle key systematics affecting precision CMB lensing. I will then explore the implications of our measurements for tests of cosmic structure growth and the S8 tension.
+ >
+ > [https://arxiv.org/abs/2304.05202](https://arxiv.org/abs/2304.05202)
+
+</details>
+
+
 ### 6/2/2023: Hironao Miyatake
 
 [Cosmology from Galaxy Clustering and Weak Lensing with HSC-Y3 and SDSS using the Emulator-Based Halo Model](assets/talk_slides/Miyatake_2023_June.pdf)
