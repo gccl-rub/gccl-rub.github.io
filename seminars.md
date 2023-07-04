@@ -12,6 +12,21 @@ If you would like to give a seminar at the GCCL please contact Jan Luca van den 
 
 ## Seminar Schedule
 
+
+### 6/16/2023: Calvin Preston
+
+[A non-linear solution to the S8 tension II: Analysis of DES Year 3 cosmic shear](assets/talk_slides/Preston_2023_June.pdf)
+
+<details>
+<summary markdown="span">Abstract</summary>
+
+ > Weak galaxy lensing surveys have consistently reported low values of the S8 parameter compared to the Planck ΛCDM cosmology. Amon & Efstathiou (2022) used KiDS-1000 cosmic shear measurements to propose that this tension can be reconciled if the matter fluctuation spectrum is suppressed more strongly on non-linear scales than assumed in state-of-the-art hydrodynamical simulations. In this talk, I will present results from our paper (Preston et al 2023) that investigated this proposed solution with cosmic shear data from the Dark Energy Survey (DES) Year 3. I will then present our investigation into the redshift and scale dependence of the suppression of the matter power spectrum. If our proposed explanation of the S8 tension is correct, the required suppression must extend into the mildly non-linear regime to wavenumbers k∼0.2hMpc-1. In addition, all measures of S8 using linear scales should agree with the Planck ΛCDM cosmology. I will close the talk by discussing how this hypothesis should become testable in the near future with new galaxy surveys.
+ >
+ > [https://arxiv.org/abs/2305.09827](https://arxiv.org/abs/2305.09827)
+
+</details>
+
+
 ### 6/16/2023: Frank Qu
 
 [Cosmology from high-precision CMB lensing measurements with the Atacama Cosmology Telescope](assets/talk_slides/Qu_2023_June.pdf)
