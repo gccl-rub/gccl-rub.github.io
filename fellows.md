@@ -22,6 +22,12 @@ GAFO 03 / 966
   mahony@astro.ruhr-uni-bochum.de   
   <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
 
+- [Dr. Anna Porredon](https://inspirehep.net/authors/1615417)  
+GAFO 03 / 925  
+  porredon@astro.ruhr-uni-bochum.de  
+  +49 234 3223450 
+  <img src="assets/img/annaporredon.jpeg" alt="Anna Porredon" width="250">
+
 - [Dr. Robert Reischke](https://github.com/rreischke)  
 GAFO 03  
   reischke@astro.ruhr-uni-bochum.de  
