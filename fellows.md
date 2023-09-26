@@ -25,8 +25,8 @@ GAFO 03 / 966
 - [Dr. Anna Porredon](https://inspirehep.net/authors/1615417)  
 GAFO 03 / 925  
   porredon@astro.ruhr-uni-bochum.de  
-  +49 234 3223450 
-  <img src="assets/img/annaporredon.jpeg" alt="Anna Porredon" width="250">
+  +49 234 3223450  
+  <img src="assets/img/annaporredon.jpg" alt="Anna Porredon" width="250">
 
 - [Dr. Robert Reischke](https://github.com/rreischke)  
 GAFO 03  
