@@ -11,6 +11,11 @@ layout: wrapper
   caminha@mpa-garching.mpg.de   
   <img src="assets/img/Caminha_lowres.jpg" alt="Gabriel B. Caminha" width="250">  
 
+- [Dr. Matteo Cataneo](https://de.linkedin.com/in/matteo-cataneo-166b6799)   
+  Bonn   
+  mcataneo@uni-bonn.de    
+  <img src="assets/img/cataneo-matteo.jpg" alt="Matteo Cataneo" width="250">
+
 - [Dr. Andrej Dvornik](https://andrej.dvrnk.si)  
 GAFO 03 / 923  
   dvornik@astro.ruhr-uni-bochum.de  
@@ -24,7 +29,7 @@ GAFO 03 / 925  Marie Curie Fellow
   <img src="assets/img/annaporredon.jpg" alt="Anna Porredon" width="250">
 
 - [Dr. Robert Reischke](https://github.com/rreischke)  
-(Bonn) AIfA 2.010 
+Bonn
   reischke@posteo.net  
   <img src="assets/img/rfreischke.png" alt="Robert Reischke" width="250">  
 
@@ -33,7 +38,7 @@ GAFO 03 / 924
   stoelzner@astro.rub.de  
 
 - [Dr. Sandra Unruh](https://github.com/SandraUnruh)  
-(Bonn) AIfA 2.010  
+Bonn  
   sandra.unruh@uni-bonn.de  
   +49 228 736588  
   <img src="assets/img/sandra.jpeg" alt="Sandra Unruh" width="250">  
