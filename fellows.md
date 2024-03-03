@@ -17,23 +17,20 @@ GAFO 03 / 923
   +49 234 3224224  
   <img src="assets/img/dvornik2.jpg" alt="Andrej Dvornik" width="250">
 
-- [Dr. Constance Mahony](https://github.com/crcmahony)  
-GAFO 03 / 966  
-  mahony@astro.ruhr-uni-bochum.de   
-  <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
-
 - [Dr. Anna Porredon](https://inspirehep.net/authors/1615417)  
-GAFO 03 / 925  
+GAFO 03 / 925  Marie Curie Fellow
   porredon@astro.ruhr-uni-bochum.de  
   +49 234 3223450  
   <img src="assets/img/annaporredon.jpg" alt="Anna Porredon" width="250">
 
 - [Dr. Robert Reischke](https://github.com/rreischke)  
-GAFO 03  
-  reischke@astro.ruhr-uni-bochum.de  
+(Bonn) AIfA 2.010 
+  reischke@posteo.net  
   <img src="assets/img/rfreischke.png" alt="Robert Reischke" width="250">  
 
-- [Dr. Benjamin Stolzner](https://www.ucl.ac.uk/astrophysics/benjamin-stolzner-phd-student)
+- [Dr. Benjamin Stolzner](https://github.com/BStoelzner)
+GAFO 03 / 924
+  stoelzner@astro.rub.de  
 
 - [Dr. Sandra Unruh](https://github.com/SandraUnruh)  
 (Bonn) AIfA 2.010  
@@ -59,11 +56,6 @@ GAFO 03 / 925
   +49 234 3223450  
   <img src="assets/img/ziangyan.png" alt="Ziang Yan" width="250">  
 
-- [Dr. Mijin Yoon](http://mijinyoon.github.io)  
-GAFO 03 / 925  
-  mijin.yoon@astro.ruhr-uni-bochum.de  
-  +49 234 3223450  
-  <img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
 
 # GCCL Fellow Alumni
 
@@ -73,11 +65,18 @@ GCCL: 2019, now working in data science
 - [Dr. Alex Malz](https://github.com/aimalz)  
 GCCL: 2019-2022, now working at Carnegie Mellon University
 
+- [Dr. Constance Mahony](https://github.com/crcmahony)
+GCCL: 2020-2023, now working at Donostia International Physics Center (DIPC) and the Beecroft Institute for Particle Astrophysics and Cosmology (BIPAC) at the University of Oxford 
+  <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
+
 - [Dr. Alex Mead](https://alexander-mead.github.io)  
-GCCL: 2021, now working at UBC
+GCCL: 2021, 2022, 2023, now working in data science at digiLab
  <img src="assets/img/Alex_Mead.jpg" alt="Alex Mead" width="250">  
 
 - [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377)   
 GCCL: 2020-2022, now faculty at Purple Mountain Observatory 
  <img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
 
+- [Dr. Mijin Yoon](http://mijinyoon.github.io)   
+GCCL: 2019-2023, now working at Leiden University
+  <img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
