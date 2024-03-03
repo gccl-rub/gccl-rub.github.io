@@ -7,12 +7,12 @@ layout: wrapper
 # GCCL Fellows
 
 - [Dr. Gabriel B. Caminha](https://github.com/gbcaminha)   
-  MPA   
+MPA   
   caminha@mpa-garching.mpg.de   
   <img src="assets/img/Caminha_lowres.jpg" alt="Gabriel B. Caminha" width="250">  
 
 - [Dr. Matteo Cataneo](https://de.linkedin.com/in/matteo-cataneo-166b6799)   
-  Bonn   
+Bonn   
   mcataneo@uni-bonn.de    
   <img src="assets/img/cataneo-matteo.jpg" alt="Matteo Cataneo" width="250">
 
@@ -23,7 +23,8 @@ GAFO 03 / 923
   <img src="assets/img/dvornik2.jpg" alt="Andrej Dvornik" width="250">
 
 - [Dr. Anna Porredon](https://inspirehep.net/authors/1615417)  
-GAFO 03 / 925  Marie Curie Fellow
+GAFO 03 / 925  
+  Marie Curie Fellow
   porredon@astro.ruhr-uni-bochum.de  
   +49 234 3223450  
   <img src="assets/img/annaporredon.jpg" alt="Anna Porredon" width="250">
@@ -71,17 +72,18 @@ GCCL: 2019, now working in data science
 GCCL: 2019-2022, now working at Carnegie Mellon University
 
 - [Dr. Constance Mahony](https://github.com/crcmahony)
-GCCL: 2020-2023, now working at Donostia International Physics Center (DIPC) and the Beecroft Institute for Particle Astrophysics and Cosmology (BIPAC) at the University of Oxford 
-<img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
+GCCL: 2020-2023 now working at Donostia International Physics Center (DIPC) and the Beecroft Institute for Particle Astrophysics and Cosmology (BIPAC) at the University of Oxford 
+  <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
 
 - [Dr. Alex Mead](https://alexander-mead.github.io)  
 GCCL: 2021, 2022, 2023, now working in data science at digiLab
-<img src="assets/img/Alex_Mead.jpg" alt="Alex Mead" width="250">  
+  <img src="assets/img/Alex_Mead.jpg" alt="Alex Mead" width="250">  
 
 - [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377)   
 GCCL: 2020-2022, now faculty at Purple Mountain Observatory 
-<img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
+  <img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
 
 - [Dr. Mijin Yoon](http://mijinyoon.github.io)   
 GCCL: 2019-2023, now working at Leiden University
-<img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
+  <img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
+
