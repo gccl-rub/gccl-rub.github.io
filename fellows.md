@@ -66,24 +66,24 @@ GAFO 03 / 925
 # GCCL Fellow Alumni
 
 - [Dr. Fabian Kohlinger](https://de.linkedin.com/in/fabian-koehlinger)  
-GCCL: 2019, now working in data science
+  GCCL: 2019, now working in data science
 
 - [Dr. Alex Malz](https://github.com/aimalz)  
-GCCL: 2019-2022, now working at Carnegie Mellon University
+  GCCL: 2019-2022, now working at Carnegie Mellon University
 
-- [Dr. Constance Mahony](https://github.com/crcmahony)
-GCCL: 2020-2023 now working at Donostia International Physics Center (DIPC) and the Beecroft Institute for Particle Astrophysics and Cosmology (BIPAC) at the University of Oxford 
+- [Dr. Constance Mahony](https://github.com/crcmahony)  
+  GCCL: 2020-2023 now working at Donostia International Physics Center (DIPC) and the Beecroft Institute for Particle Astrophysics and Cosmology (BIPAC) at the University of Oxford  
   <img src="assets/img/mahony.png" alt="Constance Mahony" width="250">
 
 - [Dr. Alex Mead](https://alexander-mead.github.io)  
-GCCL: 2021, 2022, 2023, now working in data science at digiLab
+  GCCL: 2021, 2022, 2023, now working in data science at digiLab  
   <img src="assets/img/Alex_Mead.jpg" alt="Alex Mead" width="250">  
 
-- [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377)   
-GCCL: 2020-2022, now faculty at Purple Mountain Observatory 
+- [Dr. Yiping Shu](https://www.mpa-garching.mpg.de/person/109305/2377)  
+  GCCL: 2020-2022, now faculty at Purple Mountain Observatory  
   <img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
 
-- [Dr. Mijin Yoon](http://mijinyoon.github.io)   
-GCCL: 2019-2023, now working at Leiden University
+- [Dr. Mijin Yoon](http://mijinyoon.github.io)  
+  GCCL: 2019-2023, now working at Leiden University  
   <img src="assets/img/mijin.jpg" alt="Mijin Yoon" width="250">  
 
