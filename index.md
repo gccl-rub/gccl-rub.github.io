@@ -18,7 +18,7 @@ We have four grant programmes;
 - Workshop and conferences grants (hosted by GCCL nodes)
 - <a href="https://docs.google.com/document/d/1ex00yqap5IkKZi044QBNvR9_9Ui59yLeop4b3GYdhEo/edit?usp=sharing">International Distinguished visitor scheme</a> (to any GCCL node)
 
-We are also an international partner of the Rubin Observatory with data access rights for 24 German researchers based at GCCL nodes.
+We are also an international partner of the Rubin Observatory with data access rights for 30 German researchers based at GCCL nodes.
 
 For further information about any of these schemes, please <a href="contact">contact us</a>.
 
