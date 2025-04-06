@@ -75,7 +75,7 @@ GAFO 03 / 925
   <img src="assets/img/shu_yiping.jpg" alt="Yiping Shu" width="250">  
 
 - [Dr. Sandra Unruh](https://github.com/SandraUnruh)  
-  GCCL: 2020-2024
+  GCCL: 2020-2024, now working in data science
   <img src="assets/img/sandra.jpeg" alt="Sandra Unruh" width="250">  
 
 - [Dr. Mijin Yoon](http://mijinyoon.github.io)  
